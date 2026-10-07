@@ -1,2 +1,2 @@
 # hello-world
-This one id to understand the basics.
+This one is to understand the basics.
